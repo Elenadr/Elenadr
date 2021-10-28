@@ -33,5 +33,5 @@
 
 ### 🎼 Spotify
 
-
+[![Spotify](https://Elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/Elenadr)
 [<img src="https://spotify-helen-egw1a5ren-elenadr.vercel.app/api/spotify-playing" />]()
