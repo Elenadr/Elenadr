@@ -33,8 +33,8 @@
 ---
 
 ### 🎼 Spotify
-[<img src="https://spotify-silk-ten.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
+[<img src="https://spotify-elenadr.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
 
 <br>
 
-[![Spotify](https://spotify-5jag1a24g-elenadr.vercel.appspotify-git-master-elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
+[![Spotify](https://spotify-elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
