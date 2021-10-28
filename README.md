@@ -38,5 +38,4 @@
 ### 🎧 Spotify Playing
 
 
-[![Spotify](https://helen.vercel.app/api/spotify)](https://open.spotify.com/user/helen)
-
+[<img src="https://spotify-helen-egw1a5ren-elenadr.vercel.app/api/spotify-playing"]()
