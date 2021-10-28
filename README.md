@@ -16,6 +16,7 @@
 - 💬 Ask me about to be a web dev
 - ⚡ Fav quote: "
 <br>
+
 ---
 
 ### 🚀 Coding
@@ -29,6 +30,12 @@
 
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<br>
+
+---
+
+### 🚀 Coding
 
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
 
