@@ -38,5 +38,7 @@
 ### 🚀 Coding
 
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
-[<img src="spotify-helen-9cgzb9y35-elenadr.vercel.app" width="350"]()
+
+
+[<img src="https://spotify-helen.vercel.app" width="350"/>]()
 
