@@ -11,10 +11,11 @@
 ### 💻 Almost engineer 🍪 Chef 
 
 - 🔭 I’m currently finishing my engineering studies at URJC university.
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- ⚡ Fav quote: "
+- ⭐ I’m currently learning assembly and swift.
+- 🌈  I love web design and development.
+- 💻 My next challenge is programming an android app.
+- 🐶 I love dogs!
+- ⚡ Yes. I am a potterhead. Always.
 <br>
 
 ---
@@ -35,7 +36,7 @@
 
 ---
 
-### 🎧 Spotify Playing
+### 🎼 Spotify
 
 
 [<img src="https://spotify-helen-egw1a5ren-elenadr.vercel.app/api/spotify-playing" />]()
