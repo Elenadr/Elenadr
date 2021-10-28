@@ -34,7 +34,7 @@ spotify-helen.vercel.app
 ---
 
 ### 🎼 Spotify
-[<img src="https://spotify-helen.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
-[![Spotify](https://Elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/Elenadr)
-[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/elenadr)
-[<img src="https://spotify-helen-egw1a5ren-elenadr.vercel.app/api/spotify-playing" />]()
+[<img src="https://spotify-helen-kappa.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />]()
+
+br
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
