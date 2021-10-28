@@ -37,4 +37,4 @@
 
 <br>
 
-[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
+[![Spotify](https://novatorem-delta-jet.vercel.app)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
