@@ -27,7 +27,6 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-spotify-helen.vercel.app
 
 <br>
 
@@ -37,4 +36,4 @@ spotify-helen.vercel.app
 [<img src="https://spotify-helen.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
 
 <br>
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
