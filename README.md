@@ -38,5 +38,5 @@
 ### 🎧 Spotify Playing
 
 
-[![Spotify](https://Elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/Elenadr)
+[![Spotify](https://helen.vercel.app/api/spotify)](https://open.spotify.com/user/helen)
 
