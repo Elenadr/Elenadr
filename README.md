@@ -27,12 +27,14 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+spotify-helen.vercel.app
+
 <br>
 
 ---
 
 ### 🎼 Spotify
-
+[<img src="https://spotify-helen.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
 [![Spotify](https://Elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/Elenadr)
 [![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/elenadr)
 [<img src="https://spotify-helen-egw1a5ren-elenadr.vercel.app/api/spotify-playing" />]()
