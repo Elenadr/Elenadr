@@ -34,4 +34,5 @@
 
 ### 🎼 Spotify
 
+[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/elenadr)
 
