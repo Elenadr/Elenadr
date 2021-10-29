@@ -35,7 +35,7 @@
 ### 🎼 Spotify
 [<img src="https://spotify-elenadr.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
 
-<img src = "https://spotify-elenadr.vercel.app/api/spotify">
+<img src = "https://elenadr.vercel.app/api/spotify">
 <br>
 
-[![Spotify](https://spotify-elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
+[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
