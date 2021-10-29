@@ -34,8 +34,8 @@
 
 ### 🎼 Spotify
 [<img src="https://spotify-elenadr.vercel.app/api/spotify-playing" alt="Elenadr playing" width="350" />](https://open.spotify.com/user/rw5o3tei2kndjy5j0wgqxp94d)
-<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://https://now-playing-elenadr.vercel.app/now-playing/now-playing?open">
+    <img src="https://now-playing-elenadr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 <img src = "https://elenadr.vercel.app/api/spotify">
