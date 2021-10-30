@@ -38,4 +38,7 @@
 
 ![Spotify recently played](https://spotify-now-playing-seven-gamma.vercel.app/api/spotify)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenadr)](https://github.com/elenadr/github-readme-stats)
+
+
 
