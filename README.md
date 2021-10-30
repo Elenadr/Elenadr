@@ -44,7 +44,7 @@
 
 <p align="left"><a href="mailto:em.delrio.2016@alumnos.urjc.es">📩 Send me a mail!</a> </p>
 
-<p align="left"> <a href="https://twitter.com/elenadr27" target="blank"><img src="https://img.shields.io/twitter/follow/elenadr27?logo=twitter&style=for-the-badge" alt="elenadr27" /></a> </p>
+[comment]: <> (<p align="left"> <a href="https://twitter.com/elenadr27" target="blank"><img src="https://img.shields.io/twitter/follow/elenadr27?logo=twitter&style=for-the-badge" alt="elenadr27" /></a> </p>)
 
 ---
 
