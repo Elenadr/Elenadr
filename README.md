@@ -36,3 +36,6 @@
 
 [![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/elenadr)
 
+![Spotify recently played](https://spotify-now-playing-seven-gamma.vercel.app/api/spotify)
+
+
