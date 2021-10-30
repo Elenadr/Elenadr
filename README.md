@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Almost engineer 🍪 Chef 
+### 💻 Almost engineer 
 
 - 🔭 I’m currently finishing my engineering studies at URJC university.
 - ⭐ I’m currently learning assembly and swift.
@@ -27,10 +27,7 @@
 
 ### 🎼 Spotify
 
-[![Spotify](https://elenadr.vercel.app/api/spotify)](https://open.spotify.com/user/elenadr)
-
-![Spotify recently played](https://spotify-now-playing-seven-gamma.vercel.app/api/spotify)
-
+[![Spotify](https://spotify-now-playing-h5l2p1pek-elenadr.vercel.app/api/spotify-playing.py)](https://open.spotify.com/user/elenadr)
 
 
 
