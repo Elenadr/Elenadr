@@ -6,6 +6,7 @@
 
 ### 💻 Almost engineer 
 
+- 👩‍💻 Now I'm looking for internships!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
 - ⭐ I’m currently learning assembly and swift.
 - 🌈 I love web design and web development.
