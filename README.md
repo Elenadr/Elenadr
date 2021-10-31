@@ -20,9 +20,17 @@
 ### 🎯 Projects
 
 #### Front-end
-- My first static web ➡️          [Hermione's CV](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P1/index.html)
+| Theme |  |  Link to project |
+| -- | -- | -- |
+| My first static web| ➡️ | [Hermione's CV](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P1/index.html) |
+| Discovering Javascript | ➡️ | [Wizard's Calculator](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P2/calc.html) |
+| Programming a game | ➡️  |        [Quidditch's Cup](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P3/pong.html)|
+| Handling audio and video | ➡️ | [Television for magicians](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P4/video.html) |
+| Image manipulation on canvas | ➡️ | [Magic Laboratory](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P5/filter.html) |
+
+[//]: <> (- My first static web ➡️          [Hermione's CV](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P1/index.html))
 - Discovering Javascript ➡️       [Wizard's Calculator](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P2/calc.html)
-- Programming a game ➡️           [Quidditch's Cup](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P3/pong.html)
+- Programming a game ➡️          [Quidditch's Cup](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P3/pong.html)
 - Handling audio and video ➡️     [Television for magicians](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P4/video.html)
 - Image manipulation on canvas ➡️ [Magic Laboratory](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P5/filter.html)
   
