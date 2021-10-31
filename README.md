@@ -20,17 +20,17 @@
 ### 🎯 Projects
 
 #### Front-end
-- My first static web ➡️ [Hermione's CV](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P1/index.html)
-- Discovering Javascript ➡️  [Wizard's Calculator](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P2/calc.html)
-- Programming a game ➡️  [Quidditch's Cup](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P3/pong.html)
-- Handling audio and video ➡️ [Television for magicians](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P4/video.html)
+- My first static web ➡️          [Hermione's CV](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P1/index.html)
+- Discovering Javascript ➡️       [Wizard's Calculator](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P2/calc.html)
+- Programming a game ➡️           [Quidditch's Cup](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P3/pong.html)
+- Handling audio and video ➡️     [Television for magicians](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P4/video.html)
 - Image manipulation on canvas ➡️ [Magic Laboratory](https://elenadr.github.io/2019-2020-CSAAI-Practicas/P5/filter.html)
   
 #### Fron-end & Back-end
-- First time using Node.js ➡️ [Diagon Alley](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-1)
-- Client-Server interaction ➡️ [Ollivander's](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-2)
-- Websockets ➡️ [Magic Chat](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-3)
-- Electron ➡️ [HomeChat](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-4)
+- First time using Node.js ➡️     [Diagon Alley](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-1)
+- Client-Server interaction ➡️    [Ollivander's](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-2)
+- Websockets ➡️                   [Magic Chat](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-3)
+- Electron ➡️                     [HomeChat](https://github.com/Elenadr/2020-2021-LTAW-Practicas/wiki/Pr%C3%A1ctica-4)
  
  --- 
 
@@ -42,7 +42,7 @@
 
 ### 🎯 Contact
 
-<p align="left"><a href="mailto:em.delrio.2016@alumnos.urjc.es">📩 Send me a mail!</a> </p>
+<p align="left"><a href="mailto:em.delrio.2016@alumnos.urjc.es"> 📩 Send me a mail!</a> </p>
 
 [comment]: <> (<p align="left"> <a href="https://twitter.com/elenadr27" target="blank"><img src="https://img.shields.io/twitter/follow/elenadr27?logo=twitter&style=for-the-badge" alt="elenadr27" /></a> </p>)
 
