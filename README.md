@@ -8,12 +8,10 @@
 
 - 👩‍💻 Now I'm looking for internships!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
-- ⭐ I’m currently learning assembly and swift.
+- ⭐ I’m currently learning [assembly](https://github.com/Elenadr/Asa-II/wiki) and swift.
 - 🌈 I love web design and web development.
 - 💻 My next challenge is programming an android app.
-- 🐶 I love dogs!
-- 🍪 I am a great chef!
-- ⚡ Yes, I am a potterhead. Always.
+
 
 ---
 
