@@ -9,7 +9,7 @@
 - 👩‍💻 Now I'm looking for internships!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
 - ⭐ I’m currently learning [assembly on RISC-V](https://github.com/Elenadr/Asa-II/wiki) and swift.
-- 🚀 Also I'm learning Swift, and in my free time making and documentating [Arduino Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
+- 🚀 Also I'm learning Swift, and in my free time making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
 - 🌈 I love web design and web development.
 - 💻 My next challenge is programming an android app.
 
