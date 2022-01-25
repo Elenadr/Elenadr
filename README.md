@@ -6,7 +6,7 @@
 
 ### 💻 Almost engineer 
 
-- 👩‍💻 Now I'm working as an intern in Optiva Media!
+- 👩‍💻 Now I'm working as an intern in [Optiva Media](https://www.optivamedia.com/)!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
 - ⭐ I’m currently learning Selenium!
 - 🚀 In my free time I'm making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
