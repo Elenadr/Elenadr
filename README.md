@@ -6,9 +6,9 @@
 
 ### 💻 Almost engineer 
 
-- 👩‍💻 Now I'm looking for internships!
+- 👩‍💻 Now I'm working as an intern in Optiva Media!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
-- ⭐ I’m currently learning [assembly on RISC-V](https://github.com/Elenadr/Asa-II/wiki) and swift.
+- ⭐ I’m currently learning Selenium!
 - 🚀 In my free time I'm making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
 - 🌈 I love web design and web development.
 - 💻 My next challenge is programming an android app.
