@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 QA - Digital TV - Intern 
+### 💻 QA Enginer- Digital TV
 
 - 👩‍💻 Now I'm working in [Optiva Media](https://www.optivamedia.com/)!
 - 🔭 I’m currently finishing my engineering studies at URJC university.
