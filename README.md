@@ -7,7 +7,6 @@
 ### 💻 QA Engineer- Digital TV
 
 - 👩‍💻 Now I'm working in [Optiva Media](https://www.optivamedia.com/)!
-- 🔭 I’m currently finishing my engineering studies at URJC university.
 - ⭐ I’m currently programming an android app!
 - 🚀 In my free time I'm making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
 - 🌈 I love web design and web development.
