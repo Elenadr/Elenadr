@@ -10,7 +10,7 @@
 - ⭐ I am currently studying for [CompTIA Security +](https://www.comptia.org/certifications/security) and [eLearnSecurity Junior Penetration Tester](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) cybersecurity certifications.
 - 🚀 In my free time I'm making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
 - 🌈 I love web design and web development.
-- 💻 My next challenge is to prepare for the [Offensive Security Certified Professional (OSCP)] certification(https://www.offsec.com/courses/pen-200/) - Wish me luck! 
+- 💻 My next challenge is to prepare for the [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/) certification - Wish me luck! 
 
 
 ---
