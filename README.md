@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elena and I am a Telecommunication Engineer</h1>
-<h3 align="center">'I’m hoping to do some good in the world!'</h3>
+<h4 align="center">'I’m hoping to do some good in the world!'</h3>
 <p align="center"> <img src="https://c.tenor.com/NhT7sjXfknYAAAAC/hello-welcome.gif"> </p>
 
 ---
@@ -10,7 +10,7 @@
 - ⭐ I am currently studying for [CompTIA Security +](https://www.comptia.org/certifications/security) and [eLearnSecurity Junior Penetration Tester](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) cybersecurity certifications.
 - 🚀 In my free time I'm making and documentating [Arduino's Projects](https://github.com/Elenadr/MyArduinoProjects/wiki)
 - 🌈 I love web design and web development.
-- 💻 My next challenge is to prepare for the [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/) certification - Wish me luck! 
+- 💻 My next challenge is to prepare for the [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/) certification. Wish me luck! 
 
 
 ---
