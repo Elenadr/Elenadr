@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elena and I am a Telecommunication Engineer</h1>
+<h1 align="center">Hi 👋, I'm Elena and I am a Engineer</h1>
 <h4 align="center">'I’m hoping to do some good in the world!'</h3>
 <p align="center"> <img src="https://c.tenor.com/NhT7sjXfknYAAAAC/hello-welcome.gif"> </p>
 
