@@ -19,6 +19,8 @@
 **👷‍♀ 🚧 🚧 🚧 Under construction🚧 🚧 🚧 👷‍♀**
 <br>
 * Review of General concepts of security for [Comptia exam](https://github.com/Elenadr/Comptia-recap/blob/main/README.md)
+* [Examtopics](https://elenadr.github.io/Topics)
+  
 
 ---
 ### 🎯 Projects
